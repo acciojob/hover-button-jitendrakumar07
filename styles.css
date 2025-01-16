@@ -4,7 +4,8 @@
 	Background Colour:black;
 	color:white;
 	border-radius:5px;
-	border:none;
+	border:0px;
+	font-size:30px
 	
 }
 #btn:hover{
